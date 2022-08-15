@@ -1,0 +1,23 @@
+{
+  "name": "graph-connect",
+  "version": "1.0.0",
+  "description": "functions for connecting to the Graph API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Mueller",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "hollyburn-lib": "github:ericmueller99/hollyburn-lib",
+    "mmmagic-type": "^1.0.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "seriate": "^4.0.0"
+  }
+}
